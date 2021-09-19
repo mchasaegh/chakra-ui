@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.3.0
+
+### Minor Changes
+
+- [`347294426`](https://github.com/chakra-ui/chakra-ui/commit/347294426c121a05dfaed92c526b588a38310061) -
+  Add support for RTL-aware `position` values. You can now use `top-start`,
+  `top-end`, `bottom-start` and `bottom-end` values. The toast will flip
+  depending on the `direction` provided in the theme.
+
+### Patch Changes
+
+- Updated dependencies
+  [[`09577b088`](https://github.com/chakra-ui/chakra-ui/commit/09577b088272075f6f183bbb34d5639ac5e68cc0)]:
+  - @chakra-ui/theme@1.10.2
+
 ## 1.2.11
 
 ### Patch Changes

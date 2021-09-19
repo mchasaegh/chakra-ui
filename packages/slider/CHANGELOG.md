@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.3.0
+
+### Minor Changes
+
+- [`74fada62b`](https://github.com/chakra-ui/chakra-ui/commit/74fada62b9e2cc389615855a8ad48041f2c45973)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Add `RTL` support
+  by using the theme's direction ("ltr" or "rtl") to set the default
+  `isReversed` property when the `orientation` is `horizontal`
+
 ## 1.2.9
 
 ### Patch Changes
